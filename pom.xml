@@ -8,6 +8,12 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>apoena jee framework</name>
+  
+  <scm>
+    <connection>https://github.com/andersonlf/apoena.git</connection>
+    <developerConnection>https://github.com/andersonlf/apoena.git</developerConnection>
+    <url>https://github.com/andersonlf/apoena.git</url>
+  </scm>
 
   <dependencies>
     <dependency>

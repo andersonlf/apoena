@@ -10,8 +10,8 @@
   <name>apoena jee framework</name>
   
   <scm>
-    <connection>https://github.com/andersonlf/apoena.git</connection>
-    <developerConnection>https://github.com/andersonlf/apoena.git</developerConnection>
+    <connection>scm:git:https://github.com/andersonlf/apoena.git</connection>
+    <developerConnection>scm:git:https://github.com/andersonlf/apoena.git</developerConnection>
     <url>https://github.com/andersonlf/apoena.git</url>
   </scm>
 

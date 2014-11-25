@@ -36,4 +36,17 @@
     </dependency>
   </dependencies>
 
+  <distributionManagement>
+    <repository>
+      <id>fakerepository-releases</id>
+      <name>Local file system</name>
+      <url>file:///tmp/repository/releases</url>
+    </repository>
+    <snapshotRepository>
+      <id>fakerepository-snapshots</id>
+      <name>Local file system</name>
+      <url>file:///tmp/repository/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
+
 </project>
